@@ -7,9 +7,9 @@
 
 <ol type="1">
   <li><a href= "https://github.com/priyanshmehta22", target="_blank">PRIYANSH MEHTA</a></li>
-  <li><a href="https://github.com/anoushka22", target="_blank">ANOUSHKA SHRESTH</a></li>
+  <li><a href="https://github.com/anoushkashresth", target="_blank">ANOUSHKA SHRESTH</a></li>
   <li><a href="https://github.com/Ekjot07", target="_blank"> EKJOT SINGH</a></li>
-  <li>ADITYA MOHITE</li>
+  <li><a href="https://github.com/Aditya-20BCE2275", target="_blank"> ADITYA MOHITE</a></li>
   <li><a href="https://github.com/Rashi-2602", target="_blank">RASHI PANT</a></li>
   <p align="center">
     <img src="https://media.giphy.com/media/8c3LWBENZHRnP6ixOc/giphy.gif" width="500px"></p>
